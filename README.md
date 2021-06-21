@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rob</h1>
 <h3 align="center">Aerospace Engineering grad and blockchain developer proficient in Solidity, JavaScript, Python & MATLAB.</h3>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="robert-watson-6271b31b1" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/robert-watson-6271b31b1?trk=profile-badge">Robert Watson</a></div>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tradertdf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tradertdf" height="30" width="40" /></a>
