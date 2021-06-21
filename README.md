@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rob</h1>
-<h3 align="center">Aerospace Engineering grad and blockchain developer proficient in Solidity, JavaScript, Python & MATLAB.</h3>
+<h3 align="center">Aerospace Engineering graduate and software developer specialising in blockchain technology. Proficient in Solidity, JavaScript, Python & MATLAB programming languages.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
