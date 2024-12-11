@@ -4,7 +4,9 @@
 
 <h3 aligh="centre">Previous clients include:</h3>
 
-[Sherbet](https://sherbet.com/)
+[Shuffle](https://shuffle.com/)
+
+[Sherbet NFT](https://opensea.io/collection/playsherbet)
 
 [ForeverBots](https://foreverbots.io/)
 
