@@ -2,14 +2,22 @@
 <h3 align="center">Software developer and aerospace engineering grad.</h3>
 
 
-Previous clients include:
+<h3 aligh="centre">Previous clients include:</h3>
+
 [Sherbet](https://sherbet.com/)
+
 [ForeverBots](https://foreverbots.io/)
+
 [W3:RIDE](https://www.w3ride.io/)
+
 [LootLang](https://lootlang.com/)
+
 NFTboy
+
 CryptoDemonz
+
 3xcalibur
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
