@@ -20,7 +20,7 @@
 * [LootLang](https://lootlang.com/)
 * NFTboy
 * CryptoDemonz
-* 3xcalibur
+* 3xcalibur DEX
 
 
 
