@@ -1,26 +1,6 @@
 <h1 align="center">Hey 👋, I'm Rob</h1>
 <h3 align="center">Software developer and aerospace engineering grad.</h3>
 
-
-<h3 aligh="centre">Previous clients include:</h3>
-
-[Shuffle](https://shuffle.com/)
-
-[Sherbet NFT](https://opensea.io/collection/playsherbet)
-
-[ForeverBots](https://foreverbots.io/)
-
-[W3:RIDE](https://www.w3ride.io/)
-
-[LootLang](https://lootlang.com/)
-
-NFTboy
-
-CryptoDemonz
-
-3xcalibur
-
-
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/robert-watson-6271b31b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robert-watson-6271b31b1" height="30" width="40" /></a>
@@ -31,6 +11,16 @@ CryptoDemonz
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xBlueshiftLabs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<h3 aligh="centre">Previous clients include:</h3>
+
+* [Shuffle](https://shuffle.com/)
+* [Sherbet NFT](https://opensea.io/collection/playsherbet)
+* [ForeverBots](https://foreverbots.io/)
+* [W3:RIDE](https://www.w3ride.io/)
+* [LootLang](https://lootlang.com/)
+* NFTboy
+* CryptoDemonz
+* 3xcalibur
 
 
 
