@@ -13,6 +13,7 @@
 
 <h3 aligh="centre">Previous clients include:</h3>
 
+* [Volatilis](https://www.volatilis.io/)
 * [Shuffle](https://shuffle.com/)
 * [Sherbet NFT](https://opensea.io/collection/playsherbet)
 * [ForeverBots](https://foreverbots.io/)
